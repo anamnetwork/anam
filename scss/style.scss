@@ -2,7 +2,6 @@
 ---
 
 @import "{{ site.theme }}";
-
 img {
     width:100px;
     height:100px;
@@ -15,7 +14,6 @@ span:after {
     content:"";
     display:block;
 }
-
 .inner {
     position: relative;
     max-width: 800px;
