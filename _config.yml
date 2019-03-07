@@ -1,3 +1,5 @@
 theme: jekyll-theme-slate
 title: Association Nantaise des Anciens de la Miage
 destination : ./main
+plugins:
+  - jekyll-redirect-from
