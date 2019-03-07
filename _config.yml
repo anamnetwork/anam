@@ -1,5 +1,5 @@
 title: Association Nantaise des Anciens de la Miage
-destination         : ./_layout
+destination         : ./main.md
 collections_dir     : .
 layouts_dir         : _layouts
 includes_dir        : _includes
