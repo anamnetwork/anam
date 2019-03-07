@@ -3,3 +3,14 @@
 
 @import "{{ site.theme }}";
 
+img {
+    width:100px;
+    height:100px border:1px solid;
+    vertical-align:middle;
+    float:left;
+}
+span:after {
+    clear:both;
+    content:"";
+    display:block;
+}
