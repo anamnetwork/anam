@@ -14,3 +14,10 @@ span:after {
     content:"";
     display:block;
 }
+
+.inner {
+    position: relative;
+    max-width: 800px;
+    padding: 20px 10px;
+    margin: 0 auto;
+}
